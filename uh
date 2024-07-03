@@ -30,7 +30,7 @@ gui.blazedLoader.Name = "blazedLoader"
 gui.blazedLoader.Parent = game:GetService("CoreGui")
 
 gui.Frame.BorderSizePixel = 0
-gui.Frame.Size = UDim2.new(0, 396, 0, 249)
+gui.Frame.Size = UDim2.new(0, 300, 0, 200)
 gui.Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 gui.Frame.Name = "Frame"
 gui.Frame.Position = UDim2.new(0.396226, 0, 0.362031, 0)
